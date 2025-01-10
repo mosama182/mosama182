@@ -6,7 +6,7 @@
   Some of the topics in my mind that I intent to learn: diffusion models, transformers, image reconstruction, conformal prediction, functional analysis, real analysis, optimization etc.  
 - 🌱 I’m currently learning diffusion models. I have started with creating simple experiments in Python to understand some of the basic concepts
   on some toy examples. 
-- 📫 How to reach me: m.osama182@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mosama182/)
 
 <!---
 mosama182/mosama182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
