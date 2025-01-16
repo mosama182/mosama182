@@ -5,7 +5,7 @@
   I love learning new topics related to ML, signal processing and applied mathematics. And I love learning things from the basics, in simple settings with simple examples and then add on complexity step by step.
   Some of the topics in my mind that I intent to learn: diffusion models, transformers, image reconstruction, conformal prediction, functional analysis, real analysis, optimization etc.  
 - 🌱 I’m currently learning diffusion models. I have started with creating simple experiments in Python to understand some of the basic concepts
-  on some toy examples. 
+  on some toy examples [diffusion](https://github.com/mosama182/diffusion_models).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mosama182/)
 
 <!---
